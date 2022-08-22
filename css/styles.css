@@ -1,0 +1,12 @@
+p {
+    float: left;
+    /* Выравнивание по левому краю */
+    margin: 0px -40px 0px 35px;
+    /* Отступы вокруг картинки */
+    width: 350px;
+    height: auto;
+    
+}
+h3 {
+    text-align:center;
+  }
